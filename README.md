@@ -37,3 +37,4 @@ Here are some ideas to get you started:
 -->
 
 [![Les Stats GitHub de voxan24](https://github-readme-stats.vercel.app/api?username=voxan24&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=voxan24&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
