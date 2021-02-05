@@ -15,7 +15,7 @@ How can you contact me ? It's simple ! choose one of this :
 - Telegram : valentinso24
 - Twitter : Valentinooo0oo0
 - Instagram : https://instagr.am/voxan2406
-- Mail : hello@valentinso24.com or voxan24@bk.ru
+- Mail : hello@valentinslr.com or voxan24@bk.ru
 
 Oh and I have a blog : https://voxan24.cf
 and a web resume : https://valentinslr.com
