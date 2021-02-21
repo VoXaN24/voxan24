@@ -7,6 +7,7 @@ Project list :
 - Linux_Script : https://voxan24.github.io/Linux_Script/
 - PcARCHIVE : https://pcarchive.icu
 - DownloadOS: https://github.com/VoXaN24/Download_OS
+- ETS2 Local Radio : https://ets2localradio.valentinslr.com/
  
 and more soon...
 
