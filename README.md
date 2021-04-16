@@ -14,7 +14,6 @@ and more soon...
 How can you contact me ? It's simple ! choose one of this :
 - Discord : Валентин😴#4702
 - Telegram : valentinso24
-- Twitter : Valentinooo0oo0
 - Instagram : https://instagr.am/voxan2406
 - Mail : hello@valentinslr.com or voxan24@bk.ru
 
