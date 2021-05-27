@@ -4,10 +4,10 @@ I'm a french student in informatic and here is my "mess",
 You can find many thing here (A lot of repository is in private btw), but i have pinned one of my main project
 
 Project list :
-- Linux_Script : https://voxan24.github.io/Linux_Script/
+- Linux_Script : https://voxan24.github.io/Linux_Script/ #Suspended
 - PcARCHIVE : https://pcarchive.icu
-- DownloadOS: https://github.com/VoXaN24/Download_OS
-- ETS2 Local Radio : https://ets2localradio.valentinslr.com/
+- DownloadOS: https://github.com/VoXaN24/Download_OS #Suspended
+- NowPlayi.ng : https://github.com/busybox11/NowPlaying-for-Spotify #Primary Contributor
  
 and more soon...
 
