@@ -5,7 +5,7 @@ You can find many thing here (A lot of repository is in private btw), but i have
 
 Project list :
 - Linux_Script : https://voxan24.github.io/Linux_Script/
-- PcARCHIVE : https://pcarchive.icu
+- PcARCHIVE : https://pcarchive.voxhost.fr
 - DownloadOS: https://github.com/VoXaN24/Download_OS #Suspended
 - NowPlayi.ng : https://github.com/busybox11/NowPlaying-for-Spotify #Primary Contributor
  
