@@ -12,7 +12,7 @@ Project list :
 and more soon...
 
 How can you contact me ? It's simple ! choose one of this :
-- Discord : Валентин😴#4702
+- Discord : voxvox#0001
 - Telegram : valentinso24
 - Instagram : https://instagr.am/voxan2406
 - Mail : hello@valentinslr.com or voxan24@bk.ru
