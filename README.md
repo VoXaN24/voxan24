@@ -3,19 +3,21 @@ My name is Valentin (Yes a very common name i know :D)
 I'm a french student in informatic and here is my "mess",
 You can find many thing here (A lot of repository is in private btw), but i have pinned one of my main project
 
-Project list :
-- Linux_Script : https://voxan24.github.io/Linux_Script/
-- PcARCHIVE : https://pcarchive.voxhost.fr
-- DownloadOS: https://github.com/VoXaN24/Download_OS #Suspended
-- NowPlayi.ng : https://github.com/busybox11/NowPlaying-for-Spotify #Primary Contributor
- 
+Project list & Public instance I host :
+- [PCArchive](https://pcarchive.voxhost.fr)
+- [Hessfr](https://hessfr.fr)
+- [A PrivateBin Instance](https://p.hessfr.fr)
+- [A ShareX Instance](https://i.hessfr.fr)
+- [NowPlayi.ng](https://github.com/busybox11/NowPlaying-for-Spotify) #Primary Contributor
+- [Netmonster Lëtzebuerg](https://netmonster-letzebuerg.voxhost.fr/)
+
 and more soon...
 
 How can you contact me ? It's simple ! choose one of this :
 - Discord : voxanv2
 - Telegram : [voxhaiebcu](https://t.me/voxhaiebcu)
-- Instagram : https://instagr.am/voxan2406
-- Mail : hello@valentinslr.com or voxan24@bk.ru
+- Instagram : [voxan2406](https://instagr.am/voxan2406)
+- Mail : hello@valentinslr.com or [admin@hessfr.fr](mailto:admin@hessfr.fr)
 
 Oh and I have a blog : https://blog.valentinslr.com
 and a web resume : https://valentinslr.com
