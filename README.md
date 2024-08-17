@@ -10,6 +10,7 @@ Project list & Public instance I host :
 - [A ShareX Instance](https://i.hessfr.fr)
 - [NowPlayi.ng](https://github.com/busybox11/NowPlaying-for-Spotify) #Primary Contributor
 - [Netmonster Lëtzebuerg](https://netmonster-letzebuerg.voxhost.fr/)
+- [Cellmapper-API-Data](https://github.com/VoXaN24/Cellmapper-api-data) #In progress
 
 and more soon...
 
