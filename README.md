@@ -4,12 +4,11 @@ I'm a french student in informatic and here is my "mess",
 You can find many thing here (A lot of repository is in private btw), but i have pinned one of my main project
 
 Project list & Public instance I host :
-- [PCArchive](https://pcarchive.voxhost.fr)
 - [Hessfr](https://hessfr.fr)
 - [A PrivateBin Instance](https://p.hessfr.fr)
 - [A ShareX Instance](https://i.hessfr.fr)
 - [NowPlayi.ng](https://github.com/busybox11/NowPlaying-for-Spotify) #Primary Contributor
-- [Netmonster Lëtzebuerg](https://netmonster-letzebuerg.voxhost.fr/)
+- [Netmonster Lëtzebuerg](https://lu.netmonster-db.com/)
 - [Cellmapper-API-Data](https://github.com/VoXaN24/Cellmapper-api-data) #In progress
 
 and more soon...
